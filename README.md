@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DialecticJedi
 - 👀 I’m interested in learning the basics of coding
-- 🌱 I’m currently reviewing HTML and CSS
+- 🌱 I’m currently taking the CS50 2022 course
 - 💞️ I’m looking to collaborate on websites for bands/artists (of all kinds)
 - 📫 How to reach me ...d_gibson@live.com
 
